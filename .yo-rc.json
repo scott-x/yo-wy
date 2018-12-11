@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Scott Xiong",
+      "authorEmail": "github.scott.bear@gmail.com",
+      "authorUrl": "https://gitee.com/cortney/generator-generator"
+    }
+  }
+}

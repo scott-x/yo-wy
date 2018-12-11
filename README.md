@@ -1,7 +1,7 @@
 # generator-wy [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] 
  
 ## what's `react-cli` for?
-It's a cli for react, with which we can quickly build our react application.
+It's a cli for react, with which we can quickly build our react application. That means you can save a lot of time to write your service code.
 
 ## how to use?
 
@@ -46,7 +46,7 @@ If you have any issue in using this cli, please write to me, will reply to you w
 
 ## License
 
-MIT © [Scott Xiong](https://gitee.com/cortney/generator-generator)
+MIT © [Scott Xiong](https://github.com/scott-x)
 
 [npm-image]: https://badge.fury.io/js/generator-wy.svg
 [npm-url]: https://npmjs.org/package/generator-wy

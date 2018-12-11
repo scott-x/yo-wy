@@ -1,7 +1,7 @@
 # generator-wy [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] 
  
 ## what's `react-cli` for?
-It's a cli for react, with which we can quickly build our react application. That means you can save a lot of time to write your service code.
+It's a cli for react, with which we can quickly build our react application. That means you can spend much time writing your service code.
 
 ## how to use?
 
